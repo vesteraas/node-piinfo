@@ -1,0 +1,8 @@
+{
+  "name": "node-piinfo",
+  "version": "0.0.1",
+  "description": "Get information like serial number etc of your Raspberry Pi",
+  "main": "index.js",
+  "author": "Werner Vesteraas <wvesteraas@gmail.com>",
+  "license": "BSD-2-Clause"
+}
