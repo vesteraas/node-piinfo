@@ -1,6 +1,6 @@
 {
   "name": "piinfo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get information like serial number etc of your Raspberry Pi",
   "main": "index.js",
   "author": "Werner Vesteraas <wvesteraas@gmail.com>",

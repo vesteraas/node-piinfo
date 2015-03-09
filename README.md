@@ -1,7 +1,7 @@
-node-pitft-touch
-================
+node-piinfo
+===========
 
-### A [NodeJS](http://nodejs.org) module that give you information serial number, hardware and revision for your Raspberry Pi [Raspberry Pi](http://www.raspberrypi.org).
+### A [NodeJS](http://nodejs.org) module that give you the serial number, hardware and revision for your Raspberry Pi [Raspberry Pi](http://www.raspberrypi.org).
 
 ## Author
   - Werner Vesterås <wvesteraas@gmail.com>

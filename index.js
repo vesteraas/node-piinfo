@@ -4,9 +4,7 @@ var info = {};
 
 var lines = fs.readFileSync('/proc/cpuinfo').toString().split('\n');
 for(line in lines) {
-    line = lines[line].replace(/\t/g, '');
-
-    var parts=line.replace(/\t/g, '').split(':');
+    var parts=lines[line].replace(/\t/g, '').split(':');
 
     if (parts.length == 2) {
         var key=parts[0];
